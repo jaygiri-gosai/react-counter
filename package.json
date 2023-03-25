@@ -1,0 +1,33 @@
+{
+  "name": "react-counter",
+  "version": "1.0.0",
+  "description": "Creating a simple counter using React which increments or decrements count dynamically on-screen as the user clicks on the button.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaygiri-gosai/react-search-filter.git"
+  },
+  "keywords": [
+    "React",
+    "State",
+    "Components"
+  ],
+  "author": "Jay Gosai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaygiri-gosai/react-counter/issues"
+  },
+  "homepage": "https://github.com/jaygiri-gosai/react-counter#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  }
+}
